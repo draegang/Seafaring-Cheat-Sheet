@@ -1,8 +1,14 @@
 html,
-body{
-    
+body {
+    height: 100%;
+    font-size:1rem;
 }
-.gradient{
+.gradient {
     background: rgb(0,1,255);
     background: linear-gradient(90deg, rgba(0,1,255,1) 0%, rgba(0,255,179,1) 100%);
+}
+.page-header {
+    margin-top: 4rem;
+    font-size: 1.25rem;
+    color: white;
 }
